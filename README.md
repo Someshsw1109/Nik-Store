@@ -1,5 +1,5 @@
 # Nike Store Commerce Web Application! Check Live: []()
-- Pre-requisites: Nothings! Just Stuck into This Course
+- Pre-requisites:
 This project is developed and designed by SR-Tech (`#Somesh_Raj 😅🚀🚀🚀`).
 This is a [Vite.js](https://vitejs.dev/) project bootstrapped with [`npm create vite@latest`]. Designed with TailwindCSS!
 # Important Links: 📣📢📣📢📣📢✈✈✈
